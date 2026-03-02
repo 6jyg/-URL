@@ -17,6 +17,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "niuniu",
+      "name": "牛牛资源站",
+      "type": 0,
+      "api": "https://api2.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sll",
+      "name": "360资源站",
+      "type": 0,
+      "api": "https://360zyzz.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qihu",
+      "name": "奇虎资源",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
